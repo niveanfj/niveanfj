@@ -1,4 +1,4 @@
-### Hello, my name is Nívea 👋
+### Hello 👋
 
 <p>I'm currently working as Machine Learning Engineer, building and sustaining models (computer vision, prediction sales, classification and others), developing solutions with languages like Python, C/C++, R and frameworks (for deep learning, big data, cloud computing), relational and non-relational databases, containers and orchestration tools.</p>
 
